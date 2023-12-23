@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Husny Najeeb</h1>
-<h3 align="center">Passionate IT Undergraduate from Sri Lankaa\</h3>
+<h3 align="center">Passionate IT Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kinghusny&label=Profile%20views&color=0e75b6&style=flat" alt="kinghusny" /> </p>
 
